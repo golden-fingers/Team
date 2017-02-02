@@ -13,8 +13,11 @@
 <h1> Site Scope: </h1> All the clients segment which may ask for a developer
 
 <h1> Site Sections: </h1>
-1. Slider: Show some photos about the work and services
+1. Image: Show photo about the work and services
 2. About us: Information about the team and the skills
 3. The team: The team member names and photos
-4. Testimonial: Some quotes from our clients who love to speak about us
+4. The form for Contact Us: To listen from our clients
 5. Site Link: https://golden-fingers.github.io/Team/
+
+<h1> Work Management as a team: </h1>
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">

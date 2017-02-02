@@ -18,6 +18,3 @@
 3. The team: The team member names and photos
 4. The form for Contact Us: To listen from our clients
 5. Site Link: https://golden-fingers.github.io/Team/
-
-<h1> Work Management as a team: </h1>
-<img src="smiley.gif" alt="Smiley face" height="42" width="42">
